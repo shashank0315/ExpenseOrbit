@@ -39,7 +39,7 @@ Expense_Tracker/
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/shashank0315/ExpenseOrbit
+git clone https://github.com/shashank0315/ExpenseOrbit.git
 ```
 
 ## 🐳 Docker Usage
