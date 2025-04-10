@@ -41,7 +41,9 @@ Expense_Tracker/
 ```bash
 git clone https://github.com/shashank0315/ExpenseOrbit.git
 ```
-
+```bash
+cd ExpenseOrbit
+```
 ## 🐳 Docker Usage
 
 ### Install the Python and the Docker
