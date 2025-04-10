@@ -17,7 +17,7 @@ A Python command-line application that enables users to efficiently track their 
 - JSON-based data persistence
 
 ### 🏅 Bonus Features Implemented (Optional Enhancements)
-- expense-savvy-manage-main(WEB Application)By React and python(Test Script)
+- expense-savvy-manage-main(WEB Application)By React and python(TypeScript)
 - Different budgets per month
 - Alerts when only 10% of budget remains
 - Docker support for containerized execution
@@ -36,7 +36,7 @@ Expense_Tracker/
 ---
 
 ## Steps for implementation
-
+(All are python only)
 ### Clone the Repository
 ```bash
 git clone https://github.com/shashank0315/ExpenseOrbit.git
