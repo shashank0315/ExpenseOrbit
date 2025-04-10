@@ -7,7 +7,7 @@ A Python command-line application that enables users to efficiently track their 
 
 ---
 
-## Features
+## 🚀 Features
 
 - Log daily expenses with category and description
 - Set monthly budgets per category
@@ -16,7 +16,7 @@ A Python command-line application that enables users to efficiently track their 
 - Alert when budget limit is crossed
 - JSON-based data persistence
 
-
+### 🏅 Bonus Features Implemented (Optional Enhancements)
 
 - Different budgets per month
 - Alerts when only 10% of budget remains
@@ -24,12 +24,14 @@ A Python command-line application that enables users to efficiently track their 
 
 ---
 
-### Project Structure
+## 🗂️ Project Structure
+
+```
 Expense_Tracker/
 ├── README.md
 ├── expense_tracker.py             # Core application logic
 └── Dockerfile             # Docker container setup
-
+```
 
 ---
 
@@ -38,7 +40,7 @@ Expense_Tracker/
 ### Clone the Repository
 
 
-##  Docker Usage
+## 🐳 Docker Usage
 
 ### Install the Python and the Docker
 
@@ -51,11 +53,13 @@ python Expense.py
 ### Docker Usage
 
 1. Bulid the Docker Image
-   bash
+   ```bash
    docker build -t expense-tracker .
-   
+   ```
 3. Run the Container
-   bash
+   ```bash
    docker run -it --rm expense-tracker
+   ```
+
    
 
