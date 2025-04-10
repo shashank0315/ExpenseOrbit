@@ -49,9 +49,9 @@ git clone https://github.com/shashank0315/ExpenseOrbit
 install the python 3.8 which is suitable.
 
 ### Run the Application
----bash
+```bash
 python expense_Orbit.py
----
+```
 ### Docker Usage
 
 1. Bulid the Docker Image
