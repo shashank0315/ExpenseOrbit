@@ -38,7 +38,9 @@ Expense_Tracker/
 ## Steps for implementation
 
 ### Clone the Repository
-
+```bash
+git clone https://github.com/shashank0315/ExpenseOrbit
+```
 
 ## 🐳 Docker Usage
 
